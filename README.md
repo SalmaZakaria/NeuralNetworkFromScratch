@@ -11,9 +11,13 @@ This repo contain an implementation of very simple Neural Network from scratch.
 
 ## Data
 The data used here are generated points using numpy.
+
 - simple Data (Vertical Data).
+
 ![Vertical Data](images/vertical.png)
+
 - Complex Data (Spiral Data).
+
 ![Spiral Data](images/spiral.png)
 
 ## Credits
