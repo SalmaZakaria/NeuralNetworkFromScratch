@@ -17,5 +17,5 @@ The data used here are generated points using numpy.
 ![Spiral Data](images/spiral.png)
 
 ## Credits
-[NNFS Repo](https://github.com/Sentdex/nnfs)
-[Neural Network From Scratch on Youtube](https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+- [NNFS Repo](https://github.com/Sentdex/nnfs)
+- [Neural Network From Scratch on Youtube](https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
