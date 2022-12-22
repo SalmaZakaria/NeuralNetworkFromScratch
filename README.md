@@ -2,7 +2,7 @@
 
 This repo contain an implementation of very simple Neural Network from scratch.
 
-## Implemented chuncks
+## Implemented Classes
 - Dense Layers
 - Relu activation function
 - Softmax activation function
